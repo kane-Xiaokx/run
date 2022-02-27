@@ -1,6 +1,6 @@
 package algorithm.binary;
 
-import cn.koch.algorithm.util.PrintHelper;
+import algorithm.util.PrintHelper;
 
 /**
  * 位运算 ^ 可以成无进位相加
