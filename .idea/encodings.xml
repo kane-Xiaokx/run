@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/algorithm/src/main/java" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/cloud/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/netty/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/rocketMQ/src/main/java" charset="UTF-8" />
   </component>
 </project>

@@ -8,7 +8,9 @@
         <outputRelativeToContentRoot value="true" />
         <module name="cloud" />
         <module name="run" />
+        <module name="rocketMQ" />
         <module name="algorithm" />
+        <module name="netty" />
       </profile>
     </annotationProcessing>
   </component>
@@ -16,6 +18,8 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="algorithm" options="-parameters" />
       <module name="cloud" options="-parameters" />
+      <module name="netty" options="-parameters" />
+      <module name="rocketMQ" options="-parameters" />
     </option>
   </component>
 </project>
